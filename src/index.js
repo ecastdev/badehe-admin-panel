@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { createTheme } from '@mui/material';
 import { ThemeProvider } from '@emotion/react';
 import { orange, purple } from '@mui/material/colors';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 import ErrorPage from './error';
 import Web from './explore/web';
 import Card from './componets/card/card';
@@ -43,7 +43,7 @@ const theme = createTheme({
 }
 
 )
- const router = createBrowserRouter([
+ const router = createHashRouter([
   {
     path: '/',
     element: <App/>,
