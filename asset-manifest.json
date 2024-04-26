@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/badehe-admin-panel/static/css/main.31e8a8e7.css",
+    "main.js": "/badehe-admin-panel/static/js/main.c6c448cf.js",
+    "static/js/453.288853b9.chunk.js": "/badehe-admin-panel/static/js/453.288853b9.chunk.js",
+    "static/media/logo_size-removebg-preview.png": "/badehe-admin-panel/static/media/logo_size-removebg-preview.e38ca367ad73dd642fbc.png",
+    "index.html": "/badehe-admin-panel/index.html",
+    "main.31e8a8e7.css.map": "/badehe-admin-panel/static/css/main.31e8a8e7.css.map",
+    "main.c6c448cf.js.map": "/badehe-admin-panel/static/js/main.c6c448cf.js.map",
+    "453.288853b9.chunk.js.map": "/badehe-admin-panel/static/js/453.288853b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31e8a8e7.css",
+    "static/js/main.c6c448cf.js"
+  ]
+}
